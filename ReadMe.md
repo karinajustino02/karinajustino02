@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  Oie! Aqui é a Karina 😎
 🔭 Sou estudante de desenvolvimento com foco em back-end<br>🤝 Fácil adaptabilidade <br>🌱Busco sempre novos conhecimentos<br>
 
 
